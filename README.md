@@ -78,5 +78,7 @@ Requerimientos funcionales:
 3.	El sistema debe marcar el pedido como entregado en el sistema.
 
 integrantes:
+
 .Jaider Ronaldo Martinez Obando
+
 .Jhon Deivy  guaca criollo
