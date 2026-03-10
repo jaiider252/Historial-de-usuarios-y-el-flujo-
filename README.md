@@ -79,6 +79,6 @@ Requerimientos funcionales:
 
 .integrantes:
 
-.Jaider Ronaldo Martinez Obando
+. Martinez Obando Jaider Ronaldo
 
-.Jhon Deivy  guaca criollo
+. guaca criollo Jhon Deivy 
