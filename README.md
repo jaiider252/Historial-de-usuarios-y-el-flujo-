@@ -77,7 +77,7 @@ Requerimientos funcionales:
 2.	El sistema debe permitir al personal verificar el pedido al momento de la entrega.
 3.	El sistema debe marcar el pedido como entregado en el sistema.
 
-integrantes:
+.integrantes:
 
 .Jaider Ronaldo Martinez Obando
 
